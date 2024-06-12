@@ -1,0 +1,38 @@
+src/testData/*
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and temporary files
+*.log
+*.tmp
+*.sql
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Build directories
+target/
+out/
+build/
+bin/
+
+# OS Generated files
+Thumbs.db
+ehthumbs.db
+.DS_Store
