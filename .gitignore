@@ -1,4 +1,5 @@
 src/testData/*
+doc/*
 
 # Compiled class files
 *.class
