@@ -19,7 +19,7 @@ This program is designed to sort geometric shapes based on various attributes su
 
 # Adding Test Data
 
-- Place your test data files(.txt) inside the `testData` folder located in the root directory of the project. Ensure that each file is formatted correctly according to the specifications required by the program.
+- Place your test data files(.txt) inside the `src/testData` folder located in the root directory of the project. Ensure that each file is formatted correctly according to the specifications required by the program.
 - The first value in the data file contains the number of shapes in that file.
 
 - A shape in the file is represented as follows (all values are separated by spaces):
